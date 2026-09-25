@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a BSIT student passionate about building intel
 ## 🎓 Education
 
 **Bachelor of Science in Information Technology (BSIT)** - Currently Studying
-- Strong foundation in software development, system design, and computer science principles
+- Strong foundation in software development, system design, and IT principles
 - Gaining practical experience through internships and real-world projects
 
 ## 💼 Current Roles
